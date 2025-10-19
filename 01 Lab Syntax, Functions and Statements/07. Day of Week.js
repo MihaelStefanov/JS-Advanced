@@ -1,0 +1,28 @@
+function solve(day) {
+    myObj = {
+        'Monday': 1,
+        'Tuesday': 2,
+        'Wednesday': 3,
+        'Thursday': 4,
+        'Friday': 5,
+        'Saturday': 6,
+        'Sunday': 7
+    }
+
+    let isValid = false;
+
+    Object.entries(myObj).find(el => {
+        if (day == el[0]) {
+            isValid = true;
+        }
+    });
+
+    if (isValid) {
+        console.log(myObj[day]);
+    } else {
+        console.log('error');
+    }
+    
+}
+
+solve('Monday');
