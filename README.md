@@ -1,8 +1,7 @@
 # JS-Advanced
 <p align="center">
   <a href="https://softuni.bg/courses/js-advanced>
-    <img src="![JS_Advanced](https://github.com/user-attachments/assets/9c33757d-828f-4c4b-af27-dc2d6df82ad0)
-" />
+    <img src="https://softuni.bg/Files/Courses/JS_Advanced.jpg"/>
   </a>
 <p>
 <h1 align="center">За курса</h1>
